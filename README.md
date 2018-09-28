@@ -10,7 +10,7 @@
 
 ## 개발환경 설정 실행환경
 VR 화면을 어플에서 제공해주기 위하여 XR 시장의 2/3을 차지하고 있는 Unity를 사용하여 개발하였다.</br>
-Samsung Gear VR을 사용하기 위하여 핸드폰 기종은 Galaxy 시리즈를 사용한다.</br>
+Samsung Gear VR을 ##사용하기 위하여 핸드폰 기종은 Galaxy 시리즈를 사용한다.</br>
 무선 인터넷 환경(Wi-fi) 에서 HTTP 통신, TCP/IP 소켓서버를 이용하며, Bluetooth 모듈을 이용하여 p2p 통신방식으로 컨트롤러를 제어한다.
 
 
